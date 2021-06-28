@@ -10,6 +10,13 @@ def print_menu():
     print("[3] Print Catalog")
     print("[4] Count all the song in the system")
     print("[5] Total $ in the Catalog")
+    print("[6] Delete Album")
+    print("[7] Delete song")
+    print("[8] Print the most expensive album")
+    print("[9] Print the unique genres")
+    
+    
+
 
     print("[q] Quit")
 
